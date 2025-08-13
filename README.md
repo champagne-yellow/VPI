@@ -3,12 +3,6 @@
 ## Overview
 PowerLine-VirtualDataset is a photorealistic synthetic dataset generated using Unreal Engine, designed specifically for power line extraction from aerial imagery. This dataset provides high-fidelity virtual samples to advance research in power infrastructure monitoring and airborne obstacle detection.
 
-## Potential Applications
-- Power line detection and segmentation in aerial imagery  
-- Deep learning-based power infrastructure inspection  
-- UAV obstacle avoidance system development  
-- Benchmarking for remote sensing algorithms  
-
 ## Download
 The dataset is available at:  
 [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
