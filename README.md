@@ -11,7 +11,3 @@ PowerLine-VirtualDataset is a photorealistic synthetic dataset generated using U
 2000 synthetic images and their labels are available at: [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
 
 Virtual power inspection scenes are available at: [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
-
-## Citation
-Our work is currently under review. Once our work is published, we will upload the DOI information immediately.
-If you plan to use the synthetic dataset we have created, please cite our work.
