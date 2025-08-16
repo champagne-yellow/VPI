@@ -8,5 +8,5 @@ PowerLine-VirtualDataset is a photorealistic synthetic dataset generated using U
 <img src="weather-.jpg" alt="Sample" width="600" title="Sample">
 
 ## Download
-The dataset is available at:  
+2000 collected synthetic images and their labels are available at:  
 [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
