@@ -6,6 +6,3 @@ PowerLine-VirtualDataset is a photorealistic synthetic dataset generated using U
 ## Download
 The dataset is available at:  
 [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
-
-## Community Contribution
-We welcome researchers and enthusiasts to utilize this dataset for power line detection projects. If you use this dataset in your work, please consider citing our contribution to support the community's growth.
