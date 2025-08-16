@@ -24,7 +24,7 @@ while True:
 
     # Save segmentation images in different formats
     for idx, response in enumerate(responses):
-        filename = r'D:\Unreal Projects\LandScapeMountains\IMG\3/py_seg_3_' + str(i) + '_' + str(idx)
+        filename = 'IMG/seg_' + str(i) + '_' + str(idx)
 
         if response.pixels_as_float:
             print("Type %d, size %d" % (response.image_type, len(response.image_data_float)))
@@ -41,5 +41,6 @@ while True:
             img_rgb = img1d.reshape(
                 response.height, response.width, 3)  # Reshape to 3-channel image array H X W X 3
             cv2.imwrite(os.path.normpath(filename + '.png'), img_rgb)  # Save as PNG
+
 
     i += 1
