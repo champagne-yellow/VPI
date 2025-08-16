@@ -7,13 +7,6 @@ import os
 client = airsim.MultirotorClient()      # Connect to AirSim
 client.confirmConnection()             # Verify connection and print status: Connected! Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
 
-# Set segmentation IDs for objects
-found = client.simSetSegmentationObjectID("[\w]*", 0, True)
-print("Done: %r" % (found))
-
-found = client.simSetSegmentationObjectID("StaticMesh_5000_3", 1, True)
-print("Done: %r" % (found))
-
 i = 0
 while True:
     # Get segmentation image in various formats
@@ -44,3 +37,4 @@ while True:
 
 
     i += 1
+
