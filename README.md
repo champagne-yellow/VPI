@@ -1,7 +1,7 @@
 # Virtual power inspection (VPI)
 
 ## Overview
-PowerLine-VirtualDataset is a photorealistic synthetic dataset generated using Unreal Engine, designed specifically for power line extraction from aerial imagery. This dataset provides high-fidelity virtual samples to advance research in power infrastructure monitoring and airborne obstacle detection.
+This project is a virtual power inspection scene created with Unreal Engine. It includes a total of three scenarios, as shown in the following figure. We collected 2,000 synthetic data in these scenarios for training the semantic segmentation model. Researchers in power line detection can build upon our scenes to expand target types and enrich weather conditions. 
 
 <div style="text-align: center;">
     <img src="sample.jpg" alt="Sample" width="600" title="Sample">
