@@ -8,8 +8,6 @@ This project is a virtual power inspection scene created with Unreal Engine. It 
 </div>
 
 ## Download
-2000 synthetic images and their labels are available at: [Download Synthetic Dataset](通过网盘分享的文件：LandScapeMountains
-链接: https://pan.baidu.com/s/10tmS7PPz1Edh_3TCZ4RctA?pwd=6666 提取码: 6666 
---来自百度网盘超级会员v2的分享)  
+2000 synthetic images and their labels are available at: [Download Synthetic Dataset](https://pan.baidu.com/s/10tmS7PPz1Edh_3TCZ4RctA?pwd=6666)  
 
-Virtual power inspection scenes are available at: [Download PowerLine-VirtualDataset](Your_Download_Link_Here)  
+Virtual power inspection scenes are available at: [Download Virtual Scenes](https://pan.baidu.com/s/10tmS7PPz1Edh_3TCZ4RctA?pwd=6666)  
