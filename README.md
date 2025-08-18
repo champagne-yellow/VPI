@@ -8,6 +8,6 @@ This project is a virtual power inspection scene created with Unreal Engine. It 
 </div>
 
 ## Download
-2000 synthetic images and their labels are available at: [Download Synthetic Dataset](https://pan.baidu.com/s/10tmS7PPz1Edh_3TCZ4RctA?pwd=6666)  
+2000 synthetic images and their labels are available at: [Download Synthetic Dataset](https://pan.baidu.com/s/1fVY_PbtCNUlIOghbpIjxXQ?pwd=6666)  
 
-Virtual power inspection scenes are available at: [Download Virtual Scenes](https://pan.baidu.com/s/10tmS7PPz1Edh_3TCZ4RctA?pwd=6666)  
+Virtual power inspection scenes are available at: [Download Virtual Scenes](https://pan.baidu.com/s/1UJ-AKA_xWzOD19r8AyObvA?pwd=6666)  
